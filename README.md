@@ -1,1 +1,2 @@
 # sql-challenge
+In this sql challenge, I used concepts and instructions learned from class lecture and the xpert ai learning assistant to execute sql commands on a database. I created an ERD using QuickDBD, analyzed and imported csv files into PgAdmin, and using SQL to further analyze and pull specific information from the database.
